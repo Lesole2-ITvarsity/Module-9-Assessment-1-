@@ -1,0 +1,2 @@
+This CountDown Timer app allows users to set a custom time in hours, minutes, and seconds and start a countdow. The app features a visual countdown indicator, where the word "READY" is replaced with the actual countdown timer. Users can set the actual countdown timer. Users can set the timer, start it and cancel it at any time.
+Technologies used: (FrontEnd, HTML, CSS, JAVASCRIPT)
